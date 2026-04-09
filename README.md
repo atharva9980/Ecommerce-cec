@@ -30,6 +30,8 @@ Order Service
   ↓ (gRPC)        ↓ (gRPC)
 User Service   Product Service
 ```
+<img width="576" height="521" alt="image" src="https://github.com/user-attachments/assets/348abefc-3d30-4daf-89cb-6f845ccd49ff" />
+
 
 ---
 
